@@ -26,8 +26,8 @@ export const projects = [
       "This is my personal portfolio website which contains all the information about myself, my projects, skills, certifications and my journey. Nice interface containing an amazing SVG Animation",
     image: "/images/4.png",
     tags: ["NestJS", "ReactJS", "Styled Components"],
-    code: "https://github.com/prateek7394/My-Portfolio",
-    website: "https://github.com/prateek7394/My-Portfolio",
+    code: "https://github.com/BEENA-PAL/profile",
+    website: "https://profile-git-main-beena-pals-projects.vercel.app/",
     id: 3,
   },
   {
