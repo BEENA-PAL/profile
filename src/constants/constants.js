@@ -1,13 +1,23 @@
 export const projects = [
   {
+    title: "blog App",
+    description:
+      " It enables users to create, read, update, and delete blog posts efficiently. The app features a user-friendly interface, robust backend, and seamless integration, providing an optimal experience for blogging and content management.",
+    image: "/images/5.png",
+    tags: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "tailwindcss"],
+    code: "https://github.com/BEENA-PAL/beena-blog-app",
+    website: "https://beena-blog-app.onrender.com/",
+    id: 0,
+  },
+  {
     title: "Chatty",
     description:
       "Voyager is a web-based online platform where users can chat with their friend-circle by just log-in once",
     image: "/images/1.png",
     tags: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "Material UI"],
-    code: "https://github.com/prashant9569pal/Chat-app",
+    code: "https://github.com/BEENA-PAL/chat-k",
     website: "https://github.com/BEENA-PAL/chat-k",
-    id: 0,
+    id: 1,
   },
   {
     title: "MovieVerse",
@@ -38,7 +48,7 @@ export const projects = [
     tags: ["OpenWeather API", "ReactJS", "CSS"],
     code: "https://github.com/BEENA-PAL/-weather2",
     website: "https://main--weather-app9569.netlify.app/",
-    id: 3,
+    id: 4,
   },
 ];
 
@@ -59,5 +69,5 @@ export const TimeLineData = [
     year: 2022,
     text: "Took admission in Harcourt Butler Technical University, for B.Tech in CSE",
   },
-  { year: 2023, text: "Completed Second year with an aggregate of 8.59 cgpa" },
+  { year: 2024, text: "Completed third year with an aggregate of 8.88 cgpa" },
 ];

@@ -10,7 +10,7 @@ import Button from "../../styles/GlobalComponents/Button";
 
 const Acomplishments = () => (
   <Section>
-    <SectionTitle>Certifications</SectionTitle>
+    {/* <SectionTitle>Certifications</SectionTitle>
     <Boxes>
       <Box>
         <BoxTitle>Figma Udemy Certificate</BoxTitle>
@@ -24,7 +24,7 @@ const Acomplishments = () => (
           Credentials
         </Button>
       </Box>
-    </Boxes>
+    </Boxes> */}
   </Section>
 );
 
