@@ -79,6 +79,8 @@ const Technologies = () => (
             <br />
             Tailwind CSS
             <br />
+            Bootstrap
+            <br />
             Next.js
           </ListParagraph>
         </ListContainer>
@@ -89,6 +91,8 @@ const Technologies = () => (
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
             MongoDB
+            <br />
+            MYSQL
             <br />
             Firestore
           </ListParagraph>

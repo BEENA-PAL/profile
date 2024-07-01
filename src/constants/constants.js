@@ -40,16 +40,16 @@ export const projects = [
     website: "https://profile-git-main-beena-pals-projects.vercel.app/",
     id: 3,
   },
-  {
-    title: "Weather-App",
-    description:
-      "This is weather application which prive us information about the weather condition such as temperature ,humidity and wind speed of a particular city ",
-    image: "/images/2.png",
-    tags: ["OpenWeather API", "ReactJS", "CSS"],
-    code: "https://github.com/BEENA-PAL/-weather2",
-    website: "https://main--weather-app9569.netlify.app/",
-    id: 4,
-  },
+  // {
+  //   title: "Weather-App",
+  //   description:
+  //     "This is weather application which prive us information about the weather condition such as temperature ,humidity and wind speed of a particular city ",
+  //   image: "/images/2.png",
+  //   tags: ["OpenWeather API", "ReactJS", "CSS"],
+  //   code: "https://github.com/BEENA-PAL/-weather2",
+  //   website: "https://main--weather-app9569.netlify.app/",
+  //   id: 4,
+  // },
 ];
 
 export const TimeLineData = [
